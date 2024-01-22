@@ -1,3 +1,4 @@
+![logo](https://github.com/WanterGod01/WanterGod01/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Wanter</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
